@@ -1,2 +1,2 @@
 # COE318-Lab-1
-A Resistor models an ideal resistor that obeys Ohm's Law.
+A Program that models an ideal resistor obeying Ohm's Law.
